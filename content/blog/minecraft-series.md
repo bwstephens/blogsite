@@ -6,6 +6,8 @@ tags: ['minecraft']
 
 I compiled my books about a Minecraft story into a single collection: 
 
+[![](img/minecraft-series.jpg)](https://minecraft-series.netlify.com/)
+
 <center><a href="https://minecraft-series.netlify.com/" class="button">Read Now</a></center>
 
 This compilation contains my first four books:
